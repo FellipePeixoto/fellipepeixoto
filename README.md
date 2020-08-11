@@ -18,7 +18,7 @@
 <img align="left" alt="Unity" width="45px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="Unity" width="45px" src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" />
 <img align="left" alt="Unity" width="45px" src="https://img.icons8.com/color/48/000000/javascript.png" />
-<img align="left" alt="Unity" width="45px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img align="right" alt="Unity" width="45px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 
 <br /><br />
 
