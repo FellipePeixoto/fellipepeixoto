@@ -1,8 +1,5 @@
 ### Hello! My name is Fellipe Peixoto! 👋
 
-<!--
-**FellipePeixoto/fellipepeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - ✨ Undergraduate digital games student
 - 🔭 Currently working on an app for IFRJ
 - 🌱 Currently learning React
