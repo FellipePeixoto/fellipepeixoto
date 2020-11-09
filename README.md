@@ -2,7 +2,7 @@
 
 - ✨ Undergraduate digital games student
 - 🔭 Currently working on an app for IFRJ
-- 🌱 Currently learning firebase
+- 🌱 Currently learning Godot
 
 ## My skills:
 <img align="left" alt="Unity" width="45px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />
