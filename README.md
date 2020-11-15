@@ -7,8 +7,6 @@
 ## My skills:
 <img align="left" alt="Unity" width="45px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />
 <img align="left" alt="Unity" width="45px" src="https://img.icons8.com/color/48/000000/blender-3d.png" />
-<img align="left" alt="Unity" width="45px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
-<img align="left" alt="Unity" width="45px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
 <img align="left" alt="Unity" width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTi5OVU8HeSbbz0KO-wS6axcmw-UgqKcvPP-w&usqp=CAU" />
 <img align="left" alt="Unity" width="45px" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/03/rsz_android_studio_icon.png" />
 <img align="left" alt="Unity" width="45px" src="https://img.icons8.com/color/48/000000/git.png" />
