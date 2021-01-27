@@ -2,7 +2,7 @@
 
 - ✨ Undergraduate digital games student
 - 🔭 Currently looking for job
-- 🌱 Currently learning Godot
+- 🌱 Currently learning <a href="https://ctjs.rocks">Ct.js</a>
 
 ## My skills:
 <img align="left" alt="Unity" width="45px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />
