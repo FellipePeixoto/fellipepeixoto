@@ -1,7 +1,7 @@
 ### Hello! My name is Fellipe Peixoto! 👋
 
 - ✨ Undergraduate digital games student
-- 🔭 Currently working on an app for IFRJ
+- 🔭 Currently looking for job
 - 🌱 Currently learning Godot
 
 ## My skills:
