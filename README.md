@@ -2,7 +2,7 @@
 
 - ✨ Undergraduate digital games student
 - 🔭 Currently looking for job
-- 🌱 Currently learning <a href="https://docs.unity3d.com/Manual/UIElements.html">USS</a>
+- 🌱 Currently learning <a href="https://www.pixijs.com">PIXI</a> and <a href="https://greensock.com/gsap/">GSAP</a>
 
 ## My skills:
 <img align="left" alt="Unity" width="45px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />
