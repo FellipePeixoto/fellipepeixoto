@@ -1,7 +1,6 @@
 ### Hello! My name is Fellipe Peixoto! 👋
 
 - ✨ Undergraduate digital games student
-- 🔭 Currently looking for job
 - 🌱 Currently learning <a href="https://www.pixijs.com">PIXI</a> and <a href="https://greensock.com/gsap/">GSAP</a>
 
 ## My skills:
