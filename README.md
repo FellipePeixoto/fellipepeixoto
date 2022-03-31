@@ -1,7 +1,7 @@
 ### Hello! My name is Fellipe Peixoto! 👋
 
-- ✨ Undergraduate digital games student
-- 🌱 Currently learning <a href="https://pt.wikipedia.org/wiki/HLSL">HLSL</a> and <a href="https://unity.com/pt/shader-graph">Shader Graph</a>
+- ✨ Graduate in Digital Games
+- 🌱 Currently learning <a href="https://upbge.org">UPBGE</a>
 
 ## My skills:
 <img align="left" alt="Unity" width="45px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />
