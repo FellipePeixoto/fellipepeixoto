@@ -1,7 +1,7 @@
 ### Hello! My name is Fellipe Peixoto! 👋
 
 - ✨ Graduate in Digital Games
-- 🌱 Currently learning <a href="https://upbge.org" target=_blank>UPBGE</a>
+- 🌱 Currently learning Unreal Engine
 
 ## My skills:
 <img align="left" alt="Unity" width="45px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />
