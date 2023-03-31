@@ -1,6 +1,6 @@
 ### Hello! My name is Fellipe Peixoto! 👋
 
-- ✨ Graduate in Digital Games
+- ✨ Graduated in Digital Games
 - 🌱 Currently learning Unreal Engine
 
 ## My skills:
