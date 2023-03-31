@@ -27,6 +27,4 @@
 [<img align="left" alt="Instagram" width="45px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/fellipepeixoto/
-[twitter]: https://twitter.com/lipeoto
 [itchio]: https://fellipepeixoto.itch.io
-[instagram]: https://www.instagram.com/lipeoto/
