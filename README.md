@@ -3,7 +3,7 @@
 - ✨ Graduated in Digital Games
 - 🌱 Currently learning React and Next.JS
 
-## My website: [DevPeixoto]: www.devpeixoto.com
+## My website: www.devpeixoto.com
 
 <br /><br />
 
