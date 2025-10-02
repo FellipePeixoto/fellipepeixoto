@@ -1,7 +1,7 @@
 ### Hello! My name is Fellipe Peixoto! 👋
 
 - ✨ Graduated in Digital Games
-- 🌱 Currently learning React and Next.JS
+- 🌱 Unity Developer
 
 ## My website: www.devpeixoto.com
 
