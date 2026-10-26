@@ -6,159 +6,159 @@
 - LinkedIn: [fellipepeixoto](https://linkedin.com/in/fellipepeixoto)
 
 
-# Resumo
-Desenvolvedor de jogos e software interativo, com 6 anos de experiência em desenvolvimento de aplicações, jogos e experiências gamificadas, incluindo projetos educacionais, ferramentas interativas e títulos para PC. Especializado em Unity e C#, com atuação também em tecnologias web e Android. Experiência na implementação de mecânicas de gameplay, minijogos educacionais, localização, game feel, manutenção e evolução de produtos publicados, integração de ferramentas e correção de bugs. Combina visão técnica e multidisciplinar para transformar requisitos e documentos de design em funcionalidades, colaborar com equipes de design, QA e stakeholders, e entregar experiências estáveis, acessíveis e alinhadas aos objetivos do produto.
+# Summary
+Unity developer with 6 years of experience building applications, games, and gamified experiences, including educational projects, interactive tools, and PC titles. Specialized in Unity and C#, with additional experience in web and Android technologies. Experienced in implementing gameplay mechanics, educational minigames, localization, game feel, maintenance and improvement of published products, tool integration, and bug fixing. Combines technical and cross-functional skills to turn requirements and design documents into features, collaborate with design, QA, and stakeholder teams, and deliver stable, accessible experiences aligned with product goals.
 
-# Experiência
-## **Desenvolvedor Full Stack Pleno**, Projeto Financiado pela FAPERJ
+# Experience
+## **Mid-Level Full-Stack Developer**, FAPERJ-Funded Project
 
-Mar 2026 – presente
+Mar 2026 – present
 
-Desenvolvimento de jogo educacional em português para o público infantojuvenil, em projeto financiado pela FAPERJ e aprovado em programa de startups, com foco no reconhecimento de palavras e na aplicação de regras da língua portuguesa.
+Developing an educational game in Portuguese for children and teenagers as part of a FAPERJ-funded project approved by a startup program, focused on word recognition and the application of Portuguese grammar rules.
 
-- Implementação de mecânicas de jogo e tarefas gamificadas a partir de conceitos de design, convertendo requisitos pedagógicos em interações funcionais.
+- Implementing game mechanics and gamified tasks based on design concepts, translating educational requirements into functional interactions.
 
-- Investigação, identificação e correção de bugs para melhorar a estabilidade e a qualidade da experiência.
+- Investigating, identifying, and fixing bugs to improve stability and user experience quality.
 
-- Alinhamento técnico com stakeholders em reuniões periódicas, contribuindo para decisões de implementação e definição de soluções.
+- Aligning technical decisions with stakeholders in regular meetings and contributing to implementation decisions and solution design.
 
-- Desenvolvimento com C# e Unity, com integração de tecnologias e serviços web como Firebase, JavaScript, TypeScript, Node.js e React Vite.
-
-
-
-## **Especialista Unity**, Curare Games
-
-Ago 2025 – Jun 2026
-
-Consultoria técnica em Unity para apoiar a localização e o aprimoramento do game feel de um título em lançamento na Steam.
-
-- Orientação na configuração e utilização do Unity Localization Package para apoiar a localização da interface e preparar o projeto para conteúdo em diferentes idiomas.
-
-- Apoio à integração e ao uso da ferramenta Feel (More Mountains), acelerando a implementação de feedbacks visuais e de interação conforme as especificações do cliente.
-
-- Trabalho com C#, Addressables, Unity Localization Package, Feel e Steamworks.
+- Developing with C# and Unity, integrating web technologies and services including Firebase, JavaScript, TypeScript, Node.js, and React Vite.
 
 
 
-## **Desenvolvedor Unity Pleno**, OSV
+## **Unity Specialist**, Curare Games
 
-Jun 2025 – Ago 2025
+Aug 2025 – June 2026
 
-Desenvolvimento de jogos casuais curtos para PC, destinados a lançamentos na Steam, em um fluxo de produção de alto volume que exigia agilidade, consistência e atenção à qualidade.
+Provided Unity technical consulting to support localization and improve the game feel of a title preparing for release on Steam.
 
-- Implementação de funcionalidades de gameplay utilizando Unity, TopDown Engine e Feel para títulos destinados à Steam.
+- Advised on configuring and using the Unity Localization package to localize the interface and prepare the project for content in multiple languages.
 
-- Tradução de requisitos descritos em GDDs em funcionalidades jogáveis, mantendo alinhamento com stakeholders durante o desenvolvimento.
+- Supported the integration and use of Feel by More Mountains, speeding up the implementation of visual and interaction feedback based on client specifications.
 
-- Identificação de oportunidades de melhoria e contribuição para a qualidade das entregas.
-
-- Utilização de C#, Unity, TopDown Engine, Feel e Steamworks.
+- Worked with C#, Addressables, Unity Localization, Feel, and Steamworks.
 
 
 
-## **Desenvolvedor Unity Pleno**, Playmove
+## **Mid-Level Unity Developer**, OSV
 
-Mai 2025 – Set 2025
+June 2025 – Aug 2025
 
-Desenvolvimento de minijogo educativo de fonética para integrar a coleção de jogos da empresa em uma plataforma de hardware proprietária voltada ao público infantil.
+Developed short casual PC games for release on Steam in a high-volume production workflow requiring speed, consistency, and attention to quality.
 
-- Implementação de minijogo em Unity e adaptação ao bootstrap e à estrutura já existentes na plataforma do cliente.
+- Implemented gameplay features using Unity, TopDown Engine, and Feel for Steam titles.
 
-- Participação em reuniões de alinhamento para esclarecer requisitos, calibrar expectativas e adequar a implementação às necessidades do produto.
+- Translated requirements from game design documents (GDDs) into playable features while maintaining alignment with stakeholders throughout development.
 
-- Desenvolvimento com C#, Unity e Feel.
+- Identified opportunities for improvement and contributed to delivery quality.
 
-
-
-## **Desenvolvedor Unity Pleno**, OSV
-
-Jul 2024 – Nov 2024
-
-Manutenção e evolução de jogos já publicados na Steam, com foco na correção de problemas e na implementação de novas funcionalidades.
-
-- Manutenção e expansão de funcionalidades em títulos existentes utilizando Unity, Corgi Engine e Feel.
-
-- Consulta à documentação técnica da More Mountains para integrar ferramentas, compreender seus recursos e aplicá-los adequadamente aos requisitos do projeto.
-
-- Desenvolvimento com C#, Unity, Corgi Engine e Feel.
+- Used C#, Unity, TopDown Engine, Feel, and Steamworks.
 
 
 
-## **Desenvolvedor Android Júnior**, IFRJ
+## **Mid-Level Unity Developer**, Playmove
 
-Abr 2024 – Mai 2024
+May 2025 – Sept 2025
 
-Manutenção de aplicativo Android Activity Card Sort (ACS), apoiando sua disponibilidade na Google Play Store e a continuidade do atendimento aos profissionais que utilizam a ferramenta.
+Developed an educational phonics minigame for the company's game collection on a proprietary hardware platform designed for children.
 
-- Manutenção corretiva do aplicativo para preservar seu funcionamento e sua disponibilidade para os usuários.
+- Implemented a minigame in Unity and adapted it to the client's existing bootstrap and platform structure.
 
-- Trabalho com Java, Android Studio, Google Play Console e Material Design.
+- Participated in alignment meetings to clarify requirements, set expectations, and adapt the implementation to product needs.
 
-
-
-## **Especialista Unity**, D'Bragas
-
-Out 2023 – Mar 2024
-
-Consultoria em Unity para manutenção e evolução de uma ferramenta de visualização de diagramas 2D utilizada no setor petrolífero, incluindo atividades relacionadas à indústria de petróleo e perfuração de poços.
-
-- Manutenção e aprimoramento de ferramenta de visualização 2D desenvolvida em Unity para apoiar fluxos de trabalho do setor petrolífero.
-
-- Implementação de atualizações, correções e novas funcionalidades conforme as necessidades do projeto.
-
-- Acompanhamento de tarefas e demandas utilizando Jira, com desenvolvimento em C# e Unity.
+- Worked with C#, Unity, and Feel.
 
 
 
-## **Desenvolvedor Web**, PushStart
+## **Mid-Level Unity Developer**, OSV
+
+July 2024 – Nov 2024
+
+Maintained and improved games already released on Steam, focusing on bug fixes and new feature implementation.
+
+- Maintained and expanded features in existing titles using Unity, Corgi Engine, and Feel.
+
+- Consulted More Mountains technical documentation to integrate tools, understand their capabilities, and apply them appropriately to project requirements.
+
+- Worked with C#, Unity, Corgi Engine, and Feel.
+
+
+
+## **Junior Android Developer**, IFRJ
+
+Apr 2024 – May 2024
+
+Maintained the Android Activity Card Sort (ACS) app, helping keep it available on the Google Play Store and supporting continued use by professionals.
+
+- Performed corrective maintenance to preserve the app's functionality and availability to users.
+
+- Worked with Java, Android Studio, Google Play Console, and Material Design.
+
+
+
+## **Unity Specialist**, D'Bragas
+
+Oct 2023 – Mar 2024
+
+Provided Unity consulting for the maintenance and improvement of a 2D diagram visualization tool used in the oil industry, including workflows related to oil production and well drilling.
+
+- Maintained and improved a 2D visualization tool built in Unity to support workflows in the oil industry.
+
+- Implemented updates, fixes, and new features based on project needs.
+
+- Tracked tasks and requests in Jira while developing with C# and Unity.
+
+
+
+## **Web Developer**, PushStart
 
 Mar 2021 – Mar 2023
 
-Desenvolvimento web de aplicações e experiências interativas com diferentes tecnologias.
+Developed web applications and interactive experiences using a range of technologies.
 
-- Criação de minijogos educacionais de matemática com PixiJS e tecnologias web, utilizados por milhares de crianças.
+- Created educational math minigames with PixiJS and web technologies, used by thousands of children.
 
-- Colaboração com designers e engenheiros de QA para garantia da qualidade e da efetividade pedagógica das experiências.
+- Collaborated with designers and QA engineers to ensure the quality and educational effectiveness of the experiences.
 
-- Criação de experiências interativas de recrutamento com Construct 3 e tecnologias web, utilizadas por milhares de candidatos.
+- Created interactive recruitment experiences using Construct 3 and web technologies, used by thousands of candidates.
 
-- Colaboração com desenvolvedores backend, designers e engenheiros de QA na entrega de avaliações interativas de alta qualidade.
+- Collaborated with backend developers, designers, and QA engineers to deliver high-quality interactive assessments.
 
-- Tecnologias: JavaScript, TypeScript, Construct 3, PixiJS, GSAP, JSON Schema, Jira, Notion, Miro, SourceTree e Trello
+- Implemented using JavaScript, TypeScript, Construct 3, PixiJS, GSAP, JSON Schema, Jira, Notion, Miro, SourceTree, and Trello"
 
 
 
-## **Desenvolvedor Android (contrato PJ)**, IFRJ
+## **Android Developer (Independent Contractor)**, IFRJ
 
 Jan 2019 – Mar 2021
 
-Desenvolvimento de aplicativo Android para a área médica, baseado em manual e destinado a profissionais e estudantes de fisioterapia, com foco em apoiar a aplicação do método Activity Card Sort (ACS).
+Developed an Android app for healthcare based on a manual and intended for physical therapists and students, supporting the use of the Activity Card Sort (ACS) method.
 
-- Desenvolvimento da versão brasileira do Activity Card Sort (ACS) utilizando Java e Android Studio.
+- Developed the Brazilian version of Activity Card Sort (ACS) using Java and Android Studio.
 
-- Publicação do aplicativo na Google Play Store, facilitando o gerenciamento de múltiplos questionários e pacientes por profissionais da área.
+- Published the app on the Google Play Store, helping healthcare professionals manage multiple questionnaires and patients.
 
-- Implementação com Java, Android Studio, Google Play Console e Material Design.
+- Implemented the app using Java, Android Studio, Google Play Console, and Material Design.
 
 
 
-# Formação Acadêmica
-## **IFRJ**, Tecnólogo em Jogos Digitais
+# Education
+## **IFRJ**, Associate Degree in Digital Games
 2018 – 2021
 
 
 
-## **IFMG**, Bacharelado em Ciência da Computação
+## **IFMG**, Bachelor's Degree in Computer Science
 2014 – 2018
 
 
 
-# Habilidades
-**Linguagens de Programação e Tecnologia:** C, C#, JavaScript, TypeScript, Node.js, Steamworks, Java, Unity, Construct 3, PixiJS, GSAP, Firebase, React Vite, Feel, Fork, Git, Jira, Miro, Notion, SourceTree, Addressables, Corgi Engine, Localization Package, TopDown Engine, Android Studio, Material Design, Google Play Console, JSON Schema
+# Skills
+**Programming Languages and Technologies:** C, C#, JavaScript, TypeScript, Node.js, Steamworks, Java, Unity, Construct 3, PixiJS, GSAP, Firebase, React Vite, Feel, Fork, Git, Jira, Miro, Notion, SourceTree, Addressables, Corgi Engine, Unity Localization, TopDown Engine, Android Studio, Material Design, Google Play Console, JSON Schema
 
-# Idiomas
-**Português:** Nativo
+# Languages
+**Portuguese:** Native
 
-**Inglês:** C1
+**English:** C1
 
-**Francês:** A1
+**French:** A1
