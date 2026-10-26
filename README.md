@@ -1,4 +1,4 @@
-# Fellipe Peixoto's CV
+# Hi! My name is Fellipe Peixoto
 
 - Phone: +55 35 98701 7233
 - Email: [devfellipepeixoto@gmail.com](mailto:devfellipepeixoto@gmail.com)
